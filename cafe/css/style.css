@@ -6,4 +6,7 @@ body {
 h2 {
 	color: #442220;
 	font-size: 18px;
+	border-bottom-width: 2px;
+	border-bottom-style: dotted;
+	border-bottom-color: #442220;
 }
