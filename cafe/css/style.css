@@ -22,24 +22,22 @@ p {
 	line-height: 160%
 }
 a:link {
-	color: #6aa4d6
+	color: #6aa4d6;
 }
 a:visited {
-	color: #6aa4d6
+	color: #6aa4d6;
 }
 a:hovor {
-	color: #4f7697
+	color: #4f7697;
 }
-a:link {
-	color: #aed3f2
+a:active {
+	color: #aed3f2;
 }
-
 h1 {
-	margin: 30px 0 30px 0 ;
+	margin: 30px 0 30px 0;
 	padding: 0 0 0 0;
 	line-height: 0;
 	text-align: center;
-
 }
 img {
 	border-style: none;
@@ -53,4 +51,20 @@ img {
 	margin: 0 0 0 0;
 	padding: 15px 30px 10px 30px;
 	background-image: url(../images/menu-bg.png);
+}
+#nav li a:link {
+	color: #f5f3ed;
+	text-decoration: none;
+}
+#nav li a:visited {
+	color: #f5f3ed;
+	text-decoration: none;
+}
+#nav li a:hovor {
+	color: #e4dbb9;
+	text-decoration: none;
+}
+#nav li a:active {
+	color: #ffffff;
+	text-decoration: none;
 }
