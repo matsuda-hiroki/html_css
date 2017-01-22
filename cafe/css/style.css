@@ -109,7 +109,6 @@ table.info th {
 	background-color: #f5f3eb;
 	color: #442220;
 }
-
 .menu_block {
 	overflow: hidden;
 	zoom: 1;
@@ -122,4 +121,24 @@ table.info th {
 .menu_right {
 	float: left;
 	width: 600px;
+}
+table.menu_all {
+	border: none;
+	border-collapse: collapse;
+}
+table.menu_all td {
+	padding: 0;
+}
+table.menu_all td.photo {
+	padding: 0 10px 10px 0;
+}
+.menu_right h3 {
+	margin: 20xp 0;
+	text-align: right;
+	font-size: 16px;
+	color: #442200;
+}
+.menu_right p {
+	text-align: right;
+	font-size: 12px;
 }
