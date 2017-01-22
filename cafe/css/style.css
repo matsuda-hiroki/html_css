@@ -48,5 +48,9 @@ img {
 	display: inline;
 	list-style-type: none;
 	padding-right: 30px;
-
+}
+#nav {
+	margin: 0 0 0 0;
+	padding: 15px 30px 10px 30px;
+	background-image: url(../images/menu-bg.png);
 }
