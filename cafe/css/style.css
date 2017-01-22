@@ -109,3 +109,17 @@ table.info th {
 	background-color: #f5f3eb;
 	color: #442220;
 }
+
+.menu_block {
+	overflow: hidden;
+	zoom: 1;
+}
+.menu_left {
+	float: left;
+	width: 280px;
+	margin-right: 20px;
+}
+.menu_right {
+	float: left;
+	width: 600px;
+}
