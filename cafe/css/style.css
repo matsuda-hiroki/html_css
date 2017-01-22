@@ -44,3 +44,9 @@ h1 {
 img {
 	border-style: none;
 }
+#nav li {
+	display: inline;
+	list-style-type: none;
+	padding-right: 30px;
+
+}
