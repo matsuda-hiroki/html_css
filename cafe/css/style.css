@@ -21,3 +21,16 @@ h2 {
 p {
 	line-height: 160%
 }
+a:link {
+	color: #6aa4d6
+}
+a:visited {
+	color: #6aa4d6
+}
+a:hovor {
+	color: #4f7697
+}
+a:link {
+	color: #aed3f2
+}
+
