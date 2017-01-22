@@ -68,3 +68,14 @@ img {
 	color: #ffffff;
 	text-decoration: none;
 }
+
+#footer {
+	background-image: url(../images/footer-bg.png);
+	background-repeat: repeat-x;
+	margin-top 30px;
+	padding: 20px 0 20px 0;
+	font-size: smaller;
+	color: #442200;
+
+
+}
