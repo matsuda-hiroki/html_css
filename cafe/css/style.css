@@ -95,3 +95,17 @@ img {
 .clear {
 	clear: both;
 }
+table.info {
+	border-collapse: collapse;
+	border: 1px solid #b78c5f;
+}
+table.info th, table.info td {
+	padding 8px 8px 8px 8px;
+	border: 1px solid #d6c2b5;
+	text-align: left;
+	vertical-align: middle;
+}
+table.info th {
+	background-color: #f5f3eb;
+	color: #442220;
+}
